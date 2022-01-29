@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+
+body {
+  background: pink;
+  font-family: 'Merriweather';
+}
+
+header {
+  margin-left: 20%;
+  margin-right: 20%;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 40px;
+  background-color: rosybrown;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+p {
+  font-size: 1em;
+}
+
+.content {
+  margin-top: 2em;
+  margin-left: 15%;
+  margin-right: 15%;
+  width: 70%;
+  padding-bottom: 50px;
+  background-color: rgb(253, 232, 216);
+}
+
+h3 {
+  font-family: 'Merriweather', serif;
+  font-size: 1.5em;
+  margin-top: .5em;
+}
+
+.highschool {
+  padding-left: 15px;
+  display: flex;
+  width: 100%;
+  align-items: center;
+}
+
+.highschool div {
+  padding: 20px;
+}
+
+.inline_image {
+  width: 30%;
+}
+
+.inline_image img {
+  margin-left: 10px;
+  width: 100%;
+  height: auto;
+  border: 1px solid black;
+  box-shadow: 4px 4px 4px black;
+}
+
+.inline_caption {
+  margin-left: 10%;
+  margin-right: 10%;
+  width: 70%;
+  border: 1px solid black;
+  box-shadow: 4px 4px 4px black;
+}
+
+.coffee {
+  padding-right: 15px;
+  display: flex;
+  width: 100%;
+  align-items: center;
+}
+
+.coffee div {
+  padding: 10px;
+}
+
+.img {
+  width: 30%;
+  margin-right: 25px;
+}
+
+.img img {
+  margin-top: 20px;
+  width: 100%;
+  height: auto;
+  border: 1px solid black;
+  box-shadow: 4px 4px 4px black;
+}
+
+.caption {
+  width: 70%;
+  margin-left: 10%;
+  margin-right: 10%;
+  width: 70%;
+  border: 1px solid black;
+  box-shadow: 4px 4px 4px black;
+}
